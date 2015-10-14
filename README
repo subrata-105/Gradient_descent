@@ -1,6 +1,5 @@
 #Gradient_descent
-(From CLI Ubuntu). This is an implementation of the standard gradient descent algorithm in C++ sing the armadillo library for performing high speed linear algebra operations in C++.
+This is an implementation of the standard gradient descent algorithm in C++ sing the armadillo library for performing high speed linear algebra operations in C++.
 
 This is my first algorithm in C++ and I will be coming up with more sophisticated algorithm's implementation in C++ in the future. This is an attempt to learn more about C++ and stay in the world of optimization algorithms and signal processing.
 
-Lets make some changes to this readme file and submit a pull request to see what happens and how to use and interpret the stuffs that github provides us.
