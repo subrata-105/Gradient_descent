@@ -1,0 +1,13 @@
+#Gradient Descent Algorithm
+
+This is the implementation of gradient descent algorithm in C++. 
+The "gd_header.h" contains the class header and "gd_class.cpp" contains the member functions. There is an example code that shows its implementation. To run the example program, simply go to that directory in which the example code is in and rn the following commands in terminal:
+
+>>g++  gd_example.cpp -o gd_example gd_class.cpp -O2 -larmadillo
+>>./gd_example
+
+The example code runs the optimization algorithm on the quadratic cost-function:
+f(x) = 0.5*x'Qx + b'x + c; Q should be positive semi-definite
+  x* = -inv(Q)*b  (optimal point)
+
+You can modify the cost function and play around with different functions. 
