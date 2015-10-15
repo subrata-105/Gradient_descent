@@ -1,5 +1,11 @@
-#Gradient_descent
-This is an implementation of the standard gradient descent algorithm in C++ using the armadillo library for performing high speed linear algebra operations in C++.
+#Optimization algos
+This is an implementation of the standard optimization algorithms in C++ using the armadillo library for performing high speed linear algebra operations in C++.
 
 This is my first algorithm in C++ and I will be coming up with more sophisticated algorithm's implementation in C++ in the future. This is an attempt to learn more about C++ and stay in the world of optimization algorithms and signal processing.
+
+For more info on armadilo, follow the link:
+http://arma.sourceforge.net/
+http://arma.sourceforge.net/armadillo_nicta_2010.pdf 
+
+The above links contain all the info on admadillo, the user should be able to install it and use in his/her programs. 
 
